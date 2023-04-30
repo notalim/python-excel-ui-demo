@@ -1,0 +1,3 @@
+([('calculator_simulator',
+   '/Users/alim/Documents/GitHub/python-excel-ui-demo/dist/calculator_simulator',
+   'EXECUTABLE')],)
